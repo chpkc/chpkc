@@ -1,7 +1,15 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently working on **Skillsly** — a Personal Learning Analytics Tracker that helps systematize the self-education process through a data-driven approach. Built with **React + Vite**, **Supabase (PostgreSQL)**, **Tailwind CSS** and **Framer Motion**<br><br>👯 I'm looking to collaborate on **full-stack web applications**, **analytics dashboards**, and projects where **data architecture** matters — especially those involving relational databases and real-time data visualization<br><br>🤝 I'm looking for help with **advanced data visualization techniques**, **complex SQL queries & aggregations**, and building **scalable database schemas**<br><br>🌱 I'm currently learning **Data Analysis**, **advanced PostgreSQL** (RLS, UUID arrays, many-to-many relationships), **React Context API** for state management, and best practices in **frontend performance optimization**<br><br><br>⚡ Fun fact: When building even an MVP, I engineer the database architecture first — with proper relational integrity, UUID-based many-to-many relationships, and row-level security — because clean data structure is the foundation of good analytics 📊
+ 💻 I build web applications, websites, and SaaS products — from landing pages to full-stack apps with databases, auth, and dashboards. My focus is on clean architecture and interfaces that are actually pleasant to use.
+
+👥 I'm looking to collaborate on full-stack web applications, analytics dashboards, and projects where data architecture matters — especially those involving relational databases and real-time data visualization.
+
+🛠️ My stack: React + Vite, TypeScript, Tailwind CSS, Framer Motion on the frontend — and Supabase (PostgreSQL) on the backend with a strong emphasis on schema design, RLS, and real-time data.
+
+📊 I'm looking for help with advanced data visualization techniques, complex SQL queries & aggregations, and building scalable database schemas.
+
+🌱 I'm currently learning Data Analysis, advanced PostgreSQL (RLS, UUID arrays, many-to-many relationships), React Context API for state management, and best practices in frontend performance optimization. 
 
 
 ## 🌐 Socials:
